@@ -10,10 +10,8 @@
 //         console.log(i);
 // }
 
-
-
-
 // ##### suma de digitos de un numero ####
+//
   let numero = 12323; 
 	if(numero >= 0 && numero <= 9){
            console.log(numero);
